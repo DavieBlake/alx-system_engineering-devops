@@ -1,3 +1,4 @@
 #!/bin/bash
 su betty
 chmod u+x file
+./1-who_am_i
